@@ -19,7 +19,7 @@ layout: default
 		<img src="https://img.shields.io/static/v1?label=Twitter&message=Rochelle-Scott&color=00ACEE">	
 	</a>
 	<a href="./resume.pdf">
-		<img src="https://img.shields.io/static/v1?label=Rochelle-Scott&message=PDF&color=green">	
+		<img src="https://img.shields.io/static/v1?label=CV&message=PDF&color=green">	
 	</a>
 	<a href="mailto:rochellescott.dev@gmail.com">
 		<img src="https://img.shields.io/static/v1?label=Email&message=Rochelle-Scott&color=F76831">	
