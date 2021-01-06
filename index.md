@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/rochelle-scott/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+	<img width="200" height="200" src="./images/header_image.png"/> 
+</p>
+<h1 align="center">Rochelle Scott</h1>
+<h3 align="center">iOS Engineer</h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center"> 
+	<a href="https://github.com/rochelle-scott">
+		<img src="https://img.shields.io/static/v1?label=Github&message=rochelle-scott&color=lightgray">	
+	</a>
+	<a href="https://linkedin.com/in/rochelle-scott-3a266284/">
+		<img src="https://img.shields.io/static/v1?label=LinkedIn&message=rochelle-scott&color=2867B2">	
+	</a>
+	<a href="https://twitter.com/RochelleSS">
+		<img src="https://img.shields.io/static/v1?label=Twitter&message=rochelle-scott&color=00ACEE">	
+	</a>
+	<a href="./resume.pdf">
+		<img src="https://img.shields.io/static/v1?label=Resume&message=PDF&color=green">	
+	</a>
+	<a href="mailto:rochellescott.dev@gmail.com">
+		<img src="https://img.shields.io/static/v1?label=Email&message=Rochelle&color=F76831">	
+	</a>
+</p>
 
-### Markdown
+<p align="center">
+Hey there, I’m Rochelle, an iOS Engineer, who specialises in native iOS development. I have an insatiable appetite for technology and I am a sport and film lover!
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1 align="center">Recent Work</h1>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rochelle-scott/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
