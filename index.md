@@ -1,6 +1,5 @@
 ---
 layout: index
-@import 'jekyll-theme-cayman';
 ---
 
 <p align="center">
