@@ -1,11 +1,7 @@
 ---
 layout: index
----
-
----
----
 @import 'jekyll-theme-cayman';
-
+---
 
 <p align="center">
 	<img width="200" height="200" src="./images/profile.png"/> 
