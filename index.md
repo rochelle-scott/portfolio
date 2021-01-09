@@ -2,6 +2,11 @@
 layout: index
 ---
 
+</head>
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+
 <p align="center">
 	<img width="200" height="200" src="./images/profile.png"/> 
 </p>
