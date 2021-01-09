@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="center">
-	<img width="200" height="200" src="./images/header_image.png"/> 
+	<img width="200" height="200" src="./images/DD17B4A4-5630-4C0A-9407-6FE94555729A.jpeg"/> 
 </p>
 <h1 align="center">Rochelle Scott</h1>
 <h3 align="center">iOS Engineer</h3>
