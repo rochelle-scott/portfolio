@@ -24,7 +24,7 @@ layout: index
 </p>
 
 <p align="center">
-Hey there, I’m Rochelle, an iOS Engineer, who specialises in native iOS development. I have an insatiable appetite for technology and I am a huge football and film lover!
+Hey there, I’m Rochelle, an iOS Engineer, who specialises in native iOS development. I have an insatiable appetite for technology and I am a huge football and  TV lover!
 </p>
 
 <h1 align="center">Recent Work</h1>
